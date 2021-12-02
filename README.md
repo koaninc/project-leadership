@@ -1,4 +1,4 @@
-project leader at Koan, along with some helpful hints to get things off on the right foot. There's also a rubric aligned to each phase of the project to help quantify otherwise-qualitative expectations and measure progress.
+This document outlines what that means to be a Project leader at Koan, along with some helpful hints to get things off on the right foot. There's also a rubric aligned to each phase of the project to help quantify otherwise-qualitative expectations and measure progress.
 
 [Project Rubric](project-rubric.md)
 
